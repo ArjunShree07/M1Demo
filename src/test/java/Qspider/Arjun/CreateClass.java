@@ -6,6 +6,6 @@ public class CreateClass {
 
 	@Test
 public void name() {
-	System.out.println("Aariya");
+	System.out.println("Aariya01");
 } 
 }
