@@ -6,7 +6,7 @@ public class CreateGitBranch {
 	public class GitBranchPrac {
 		@Test
 		public void branchPrac() {
-			System.out.println("This is pushed through branch");
+			System.out.println("This is pushed through branch01");
 		}
 		}
 }
