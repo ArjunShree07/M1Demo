@@ -8,6 +8,7 @@ public class CreateGitBranch {
 		public void branchPrac() {
 			System.out.println("This is pushed through branch01");
 			System.out.println("this is demo for check Git conflict");
+			System.out.println("hi");
 		}
 		}
 }
